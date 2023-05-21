@@ -1,5 +1,5 @@
 title: Jonas Saman # your name (or website title) here
-logo: <img src="https://jonassaman.github.io/images/JonasSaman.png?raw=true" width="270" height="270"/> # your photo (or logo) here
+logo: "/images/JonasSaman.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   <br><br>
   First description 
