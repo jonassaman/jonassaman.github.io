@@ -19,7 +19,7 @@
 
 <!-- Modal HTML embedded directly into document -->
 <div id="ex1" class="modal">
-  <section>
+<!--   <section> -->
 
       <h2 id="google-slides-demos">Google Slides Demos</h2>
 
@@ -34,8 +34,8 @@
 
 
 
-      </section>
-  <a href="#" rel="modal:close">Close</a>
+<!--       </section> -->
+<!--   <!a href="#" rel="modal:close">Close</a> -->
 </div>
 
 <!-- Link to open the modal -->
