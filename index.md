@@ -44,7 +44,7 @@
 <!-- Link to open the modal -->
 <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
 
-<a href="slides.md" rel="modal:open">Slidesmd</a>
+<a href="slidedemos.md" rel="modal:open">Slidesmd</a>
 
 
 ---
