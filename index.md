@@ -17,6 +17,7 @@
 
 ---
 
+<a href="/slides" rel="modal:open">example</a>
 
 
 
