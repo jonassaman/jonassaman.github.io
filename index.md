@@ -33,7 +33,7 @@
 <p><code class="language-plaintext highlighter-rouge">Comet concept
 
 </code></p>
-<hr style="width:400px;text-align:left;margin-left:0">
+
 <hr>
 
 
@@ -44,8 +44,8 @@
 <!-- Link to open the modal -->
 <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
 
-<a href="slidedemos.md" rel="modal:open">Slidesmd</a>
-<a href="slides.md" rel="modal:open">Slidesmd</a>
+<a href="slidedemos.html" rel="modal:open">Slidedemos.html</a>
+<a href="slides.md" rel="modal:open">Slides.md</a>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
