@@ -27,12 +27,13 @@
 
 <h3 id="1-comet">1. Comet</h3>
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYrD3KATThBXpwXjRKt9EIma3oEOY2Tee_UAfKvcYymHVTeBOYq_ozKOxumxliGFMo6e4d6uQzg2hE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRYrD3KATThBXpwXjRKt9EIma3oEOY2Tee_UAfKvcYymHVTeBOYq_ozKOxumxliGFMo6e4d6uQzg2hE/embed?start=true&amp;loop=true&amp;delayms=3000" frameborder="0" width="400" height="250" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 <p><code class="language-plaintext highlighter-rouge">Comet concept
 
 </code></p>
-<hr style="width:500px;text-align:left;margin-left:0">
+<hr style="width:400px;text-align:left;margin-left:0">
+<hr>
 
 
 <!--       </section> -->
