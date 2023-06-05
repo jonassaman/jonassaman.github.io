@@ -32,7 +32,7 @@
 <p><code class="language-plaintext highlighter-rouge">Comet concept
 
 </code></p>
-<hr style="width:50%;text-align:left;margin-left:0">
+<hr style="width:400px;text-align:left;margin-left:0">
 
 
 <!--       </section> -->
