@@ -45,7 +45,7 @@
 <p><a href="#ex1" rel="modal:open">Open Modal</a></p>
 
 <a href="slidedemos.md" rel="modal:open">Slidesmd</a>
-
+<a href="slides.md" rel="modal:open">Slidesmd</a>
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
