@@ -14,7 +14,7 @@
 
 
 [Evaluation and calibration of inexpensive humidity sensors for mass-deployed weather stations](/pdf/Poster-2203272225.pdf)
-<a href="/pdf/Poster-2203272225.pdf" rel="modal:open"><img src="images/RHscreencap.png?raw=true"/></a>
+<a href="/pdf/Poster-2203272225.pdf"><img src="images/RHscreencap.png?raw=true"/></a>
 
 ---
 
