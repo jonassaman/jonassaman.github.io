@@ -1,4 +1,4 @@
-<h2 id="google-slides-demos">Google Slides Demos</h2>
+<h2 id="google-slides-demos">Google Slides Demo</h2>
 
 <p><strong>Aim:</strong> create concepts in Google Slides.</p>
 
@@ -10,5 +10,4 @@
 <p><code class="language-plaintext highlighter-rouge">Comet concept
 
 </code></p>
-<hr style="width:400px;text-align:left;margin-left:0">
 <hr>
