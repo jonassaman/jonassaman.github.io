@@ -18,6 +18,14 @@
 
 ---
 
+### Puzzles
+
+<a href="/pdf/Poster1.pdf">Poster 1 </a> 
+<a href="/pdf/Poster2.pdf">Poster 2 </a>
+<a href="/pdf/Poster3.pdf">Poster 3 </a>
+<a href="/pdf/Poster4.pdf">Poster 4 </a>
+
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
