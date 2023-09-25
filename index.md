@@ -19,7 +19,7 @@
 ---
 
 ### Puzzles
-
+<a href="poster1.md" rel="modal:open" max-width="800px">Poster One</a>
 <a href="/pdf/Poster1.pdf">Poster 1 </a> 
 <a href="/pdf/Poster2.pdf">Poster 2 </a>
 <a href="/pdf/Poster3.pdf">Poster 3 </a>
