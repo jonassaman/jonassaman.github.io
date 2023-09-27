@@ -19,11 +19,11 @@
 ---
 
 ### Puzzles
-<a href="poster1.md" rel="modal:open" max-width="800px">Poster One</a>
-<a href="/pdf/Poster1.pdf">Poster 1 </a> 
-<a href="/pdf/Poster2.pdf">Poster 2 </a>
-<a href="/pdf/Poster3.pdf">Poster 3 </a>
-<a href="/pdf/Poster4.pdf">Poster 4 </a>
+<a href="poster1.md" rel="modal:open" max-width="800px">Poster 1</a> <br>
+<a href="poster2.md" rel="modal:open" max-width="800px">Poster 2</a> <br>
+<a href="poster3.md" rel="modal:open" max-width="800px">Poster 3</a> <br>
+<a href="poster4.md" rel="modal:open" max-width="800px">Poster 4</a> <br>
+
 
 
 ---
