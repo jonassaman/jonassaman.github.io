@@ -1,0 +1,23 @@
+<!-- Modal HTML embedded directly into document -->
+
+<!--   <section> -->
+
+<h2 id="clockapp">Clock</h2>
+
+<p><strong>Aim:</strong> create concepts in Google Slides.</p>
+
+<h3 id="1-comet">1. Comet</h3>
+<div style="position:relative; width:100%; height:0px; padding-bottom:62.5%;">
+   <iframe class="current-time" src="http://free.timeanddate.com/clock/i35r7kr2/n47/tlau/fs12/fcfff/tct/pct/ahl/th2/ts1" frameborder="0" width="54" height="14" allowTransparency="true"></iframe></div>
+
+<p><code class="language-plaintext highlighter-rouge">Comet concept
+
+</code></p>
+<hr style="width:400px;text-align:left;margin-left:0">
+<hr>
+
+
+<!--       </section> -->
+<!--   <!a href="#" rel="modal:close">Close</a> -->
+
+ 
